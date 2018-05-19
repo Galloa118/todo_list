@@ -31,6 +31,7 @@ class App extends Component {
     return (
         <Container>
             <div className="row input-button">
+                <h1><center>Todo List</center></h1>
                 <Col xl={8}>
                     <input className="form-control float-left" value={this.state.list_term} onChange={this.onChange}  required />
                 </Col>
