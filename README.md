@@ -9,5 +9,5 @@
 
 
 Screenshot
-![Alt text](https://github.com/Galloa118/react_simple_app/blob/master/image_app.jpg "Optional title")
+![Alt text](https://github.com/Galloa118/todo_list/blob/master/todolist_screenshot.png "Optional title")
 
